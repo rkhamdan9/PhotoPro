@@ -1,0 +1,123 @@
+body{
+	margin: 0px;
+	background-color: #373737;
+	color: #fff;
+}
+
+header{
+	background-color: #cccccc;
+	height: 40px;
+	padding-bottom: 10px;
+}
+
+header h2{
+	color: #beafaf;
+	display: inline;
+	 float: left;
+	margin-left: 25% ;
+
+
+
+}
+
+header a{
+
+	color :white;
+	text-decoration: none;
+	padding: 10px;
+
+
+}
+
+div.first{
+	
+	float:right;
+	margin-right: 20% ;
+	margin-top: 10px;
+}
+
+
+
+
+div.automn{
+	height: 300px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	
+}
+
+div img{
+	display: block;
+	width: 50%;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+.three {
+ 	
+ 	width: 200px;
+ 	text-align: justify;
+ 	float: left;
+ 	margin: 20px
+ }
+ .two {
+ 	
+ 	width: 200px;
+ 	text-align: justify;
+ 	float: left;
+ 	margin: 20px
+ }
+
+ .one {
+ 	
+ 	width: 200px;
+ 	text-align: justify;
+ 	float: left;
+ 	margin: 20px
+ }
+
+ h2{
+ 	margin-bottom: 10px;
+ }
+
+ .all{
+ 	width: 50%;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+
+.all h3{
+	background-color: #303030;
+	font-weight: lighter;
+	padding: 10px;
+}
+
+ .all p{
+	font-weight: lighter;
+}
+
+footer {
+	clear: both;
+	
+	margin-top: 20px;
+
+}
+
+.foot {
+	
+	text-align: center;
+	margin-top: 10px;
+	
+
+}
+
+.here{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px solid grey;
+
+}
